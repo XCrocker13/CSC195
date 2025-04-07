@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{99DD18DB-082E-42D1-8226-28B80DB236B9}|DiceRoller\\DiceRoller.vcxproj|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DiceRoller\\DiceRoller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99DD18DB-082E-42D1-8226-28B80DB236B9}|DiceRoller\\DiceRoller.vcxproj|solutionrelative:DiceRoller\\DiceRoller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2CC7DD3-34AE-4B17-83C0-3EED5B5D091C}|UserDataTypes\\UserDataTypes.vcxproj|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\UserDataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F2CC7DD3-34AE-4B17-83C0-3EED5B5D091C}|UserDataTypes\\UserDataTypes.vcxproj|solutionrelative:UserDataTypes\\UserDataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DiceRoller.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DiceRoller\\DiceRoller.cpp",
+              "RelativeDocumentMoniker": "DiceRoller\\DiceRoller.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DiceRoller\\DiceRoller.cpp",
+              "RelativeToolTip": "DiceRoller\\DiceRoller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T20:51:46.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Employee.cpp",
               "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.cpp",
               "RelativeDocumentMoniker": "UserDataTypes\\Employee.cpp",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Employee.h",
               "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.h",
               "RelativeDocumentMoniker": "UserDataTypes\\Employee.h",
@@ -72,20 +89,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserDataTypes.cpp",
               "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\UserDataTypes.cpp",
               "RelativeDocumentMoniker": "UserDataTypes\\UserDataTypes.cpp",
               "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\UserDataTypes.cpp",
               "RelativeToolTip": "UserDataTypes\\UserDataTypes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-06T03:26:49.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NewWorld.cpp",
               "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\NewWorld.cpp",
               "RelativeDocumentMoniker": "NewWorld.cpp",
