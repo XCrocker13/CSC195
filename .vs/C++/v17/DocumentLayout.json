@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DataTypes\\DataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataTypes\\DataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2CC7DD3-34AE-4B17-83C0-3EED5B5D091C}|UserDataTypes\\UserDataTypes.vcxproj|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\UserDataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2CC7DD3-34AE-4B17-83C0-3EED5B5D091C}|UserDataTypes\\UserDataTypes.vcxproj|solutionrelative:UserDataTypes\\UserDataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserDataTypes\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserDataTypes\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\NewWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +46,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataTypes.cpp",
-              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DataTypes\\DataTypes.cpp",
-              "RelativeDocumentMoniker": "DataTypes\\DataTypes.cpp",
-              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DataTypes\\DataTypes.cpp",
-              "RelativeToolTip": "DataTypes\\DataTypes.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.cpp",
+              "RelativeDocumentMoniker": "UserDataTypes\\Employee.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.cpp",
+              "RelativeToolTip": "UserDataTypes\\Employee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T23:19:14.171Z",
+              "WhenOpened": "2025-04-06T03:43:42.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Employee.h",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.h",
+              "RelativeDocumentMoniker": "UserDataTypes\\Employee.h",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\Employee.h",
+              "RelativeToolTip": "UserDataTypes\\Employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T03:34:54.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDataTypes.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\UserDataTypes.cpp",
+              "RelativeDocumentMoniker": "UserDataTypes\\UserDataTypes.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\UserDataTypes\\UserDataTypes.cpp",
+              "RelativeToolTip": "UserDataTypes\\UserDataTypes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T03:26:49.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NewWorld.cpp",
               "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\NewWorld.cpp",
               "RelativeDocumentMoniker": "NewWorld.cpp",
@@ -59,8 +93,7 @@
               "RelativeToolTip": "NewWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-01T20:52:39.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T20:52:39.496Z"
             }
           ]
         }

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\obito\OneDrive\School\Spring 2025\C++\UserDataTypes\</FILEPATH>
+      <FILENAME>Employee.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Employee::hoursWorked' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Employee::{ctor}</FUNCTION>
+    <DECORATED>??0Employee@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Employee::hoursWorked</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\obito\OneDrive\School\Spring 2025\C++\UserDataTypes\</FILEPATH>
+      <FILENAME>Employee.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Employee::wage' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Employee::{ctor}</FUNCTION>
+    <DECORATED>??0Employee@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Employee::wage</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\obito\OneDrive\School\Spring 2025\C++\UserDataTypes\</FILEPATH>
+      <FILENAME>Employee.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Employee::zipcode' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Employee::{ctor}</FUNCTION>
+    <DECORATED>??0Employee@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Employee::zipcode</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\obito\OneDrive\School\Spring 2025\C++\UserDataTypes\</FILEPATH>
+      <FILENAME>Employee.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Employee::age' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Employee::{ctor}</FUNCTION>
+    <DECORATED>??0Employee@@QEAA@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Employee::age</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

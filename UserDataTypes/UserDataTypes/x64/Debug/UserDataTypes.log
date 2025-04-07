@@ -1,0 +1,4 @@
+﻿  UserDataTypes.cpp
+UserDataTypes.obj : error LNK2019: unresolved external symbol "public: void __cdecl Employee::Read(void)" (?Read@Employee@@QEAAXXZ) referenced in function main
+UserDataTypes.obj : error LNK2019: unresolved external symbol "public: void __cdecl Employee::Write(void)" (?Write@Employee@@QEAAXXZ) referenced in function main
+C:\Users\obito\OneDrive\School\Spring 2025\x64\Debug\UserDataTypes.exe : fatal error LNK1120: 2 unresolved externals

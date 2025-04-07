@@ -1,0 +1,175 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Employee::hoursWorked' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/obito/onedrive/school/spring 2025/c++/userdatatypes/userdatatypes.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/obito/OneDrive/School/Spring 2025/C++/UserDataTypes/Employee.h"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Employee::{ctor}",
+                  "decoratedName": "??0Employee@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Employee::hoursWorked"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Employee::wage' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/obito/onedrive/school/spring 2025/c++/userdatatypes/userdatatypes.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/obito/OneDrive/School/Spring 2025/C++/UserDataTypes/Employee.h"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Employee::{ctor}",
+                  "decoratedName": "??0Employee@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Employee::wage"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Employee::zipcode' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/obito/onedrive/school/spring 2025/c++/userdatatypes/userdatatypes.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/obito/OneDrive/School/Spring 2025/C++/UserDataTypes/Employee.h"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Employee::{ctor}",
+                  "decoratedName": "??0Employee@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Employee::zipcode"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Variable 'Employee::age' is uninitialized. Always initialize a member variable (type.6)."
+          },
+          "analysisTarget": {
+            "uri": "file:///c:/users/obito/onedrive/school/spring 2025/c++/userdatatypes/userdatatypes.cpp"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/obito/OneDrive/School/Spring 2025/C++/UserDataTypes/Employee.h"
+                },
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Employee::{ctor}",
+                  "decoratedName": "??0Employee@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Employee::age"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34435.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/obito/onedrive/school/spring 2025/c++/userdatatypes/userdatatypes.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "ce85d8b3b4fb8292824d176052b9048525cb117e87ff2ce810079c7da4bf5911"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/obito/OneDrive/School/Spring 2025/C++/UserDataTypes/Employee.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "631db55928c9d00494670ca946b2e913039331a31954fa8eaf157ed531b45f55"
+          }
+        }
+      ]
+    }
+  ]
+}
