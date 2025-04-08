@@ -12,7 +12,7 @@ int main()
 
 	for (int i = 1; i <= amountOfDice; i++) 
 	{
-		int roll = rand() % 7;
+		int roll = rand() % 6 + 1;
 		cout << "Dice " << i << ": " << roll <<" ";
 	}
 	return 0;

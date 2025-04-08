@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DataTypes"
+    "\\DataTypes",
+    "\\DiceRoller",
+    "\\UserDataTypes\\UserDataTypes\\Debug"
   ],
-  "SelectedNode": "\\DataTypes\\DataTypes.cpp",
+  "SelectedNode": "\\DiceRoller\\DiceRoller.cpp",
   "PreviewInSolutionExplorer": false
 }
