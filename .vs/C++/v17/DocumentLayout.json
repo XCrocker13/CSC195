@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\MemoryReview\\MemoryReview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MemoryReview\\MemoryReview.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DiceRoller\\DiceRoller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiceRoller\\DiceRoller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiceRoller.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DiceRoller\\DiceRoller.cpp",
+              "RelativeDocumentMoniker": "DiceRoller\\DiceRoller.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\DiceRoller\\DiceRoller.cpp",
+              "RelativeToolTip": "DiceRoller\\DiceRoller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T21:19:52.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemoryReview.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\MemoryReview\\MemoryReview.cpp",
+              "RelativeDocumentMoniker": "MemoryReview\\MemoryReview.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\MemoryReview\\MemoryReview.cpp",
+              "RelativeToolTip": "MemoryReview\\MemoryReview.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-09T21:16:04.576Z",
+              "EditorCaption": ""
             }
           ]
         }
