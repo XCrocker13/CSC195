@@ -1,0 +1,42 @@
+﻿  Item.cpp
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,11): error C3867: 'Item::setName': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Item.cpp')
+      C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,11):
+      the template instantiation context (the oldest one first) is
+          C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,3):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,25): error C3867: 'Item::setQuantity': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Item.cpp')
+  
+  Training.cpp
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,43): error C3867: 'Item::setPrice': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Item.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,58): error C3867: 'Item::total': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Item.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(46,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Item.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,11): error C3867: 'Item::setName': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Training.cpp')
+      C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,11):
+      the template instantiation context (the oldest one first) is
+          C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,3):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,25): error C3867: 'Item::setQuantity': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Training.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,43): error C3867: 'Item::setPrice': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Training.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(41,58): error C3867: 'Item::total': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'Training.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Item.h(46,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Training.cpp')
+  
+C:\Users\obito\OneDrive\School\Spring 2025\C++\Training\Training\Training.cpp(27,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
