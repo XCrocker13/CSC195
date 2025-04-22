@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 301,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -64,6 +64,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\Animal.cpp",
+              "RelativeDocumentMoniker": "OOP\\Animal.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\Animal.cpp",
+              "RelativeToolTip": "OOP\\Animal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T21:20:55.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\OOP.cpp",
+              "RelativeDocumentMoniker": "OOP\\OOP.cpp",
+              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\OOP.cpp",
+              "RelativeToolTip": "OOP\\OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T21:16:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Cat.h",
               "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\OOP\\Header Files\\Cat.h",
@@ -86,32 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-15T21:32:04.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Animal.cpp",
-              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\Animal.cpp",
-              "RelativeDocumentMoniker": "OOP\\Animal.cpp",
-              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\Animal.cpp",
-              "RelativeToolTip": "OOP\\Animal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-15T21:20:55.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OOP.cpp",
-              "DocumentMoniker": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\OOP.cpp",
-              "RelativeDocumentMoniker": "OOP\\OOP.cpp",
-              "ToolTip": "C:\\Users\\obito\\OneDrive\\School\\Spring 2025\\C\u002B\u002B\\OOP\\OOP.cpp",
-              "RelativeToolTip": "OOP\\OOP.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-15T21:16:08.454Z",
               "EditorCaption": ""
             }
           ]
