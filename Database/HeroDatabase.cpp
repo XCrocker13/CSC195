@@ -1,0 +1,1 @@
+#include "HeroDatabase.h"
